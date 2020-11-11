@@ -765,18 +765,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 1371686929}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 20b7688b430c88643ab8084e0562d804, type: 3}
+  m_Script: {fileID: 11500000, guid: 62587b6d2e1406a4aad02954dfed3faf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  spawnPoint: {fileID: 339599166}
-  personajesBoton:
-  - {fileID: 1860363602}
-  - {fileID: 1748362855}
-  - {fileID: 1088627313}
-  personajes:
-  - {fileID: 1237969669575700915, guid: f9aac904ab3381641bbea9eea0883e0e, type: 3}
-  - {fileID: 7378199273849217983, guid: 4d6989ecaa3001d47a5cd05d1d7225a1, type: 3}
-  - {fileID: 4920215592824888124, guid: d76ca78a364178c4080eaaf3175f76df, type: 3}
 --- !u!1 &1389399819
 GameObject:
   m_ObjectHideFlags: 0
